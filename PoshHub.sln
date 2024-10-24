@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoshHub", "PoshHub\PoshHub.csproj", "{A328B11E-0E75-4ED1-9535-303277E9328E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A328B11E-0E75-4ED1-9535-303277E9328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A328B11E-0E75-4ED1-9535-303277E9328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A328B11E-0E75-4ED1-9535-303277E9328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A328B11E-0E75-4ED1-9535-303277E9328E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFCB81C-C39C-42CD-96F6-5B17C4E950B7}
+	EndGlobalSection
+EndGlobal
