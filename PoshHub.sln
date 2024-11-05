@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoshHub", "PoshHub\PoshHub.csproj", "{A328B11E-0E75-4ED1-9535-303277E9328E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoshHub.Data", "PoshHub.Data\PoshHub.Data.csproj", "{00253EE0-2FA9-4FD8-908F-E6E9333CAB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A328B11E-0E75-4ED1-9535-303277E9328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A328B11E-0E75-4ED1-9535-303277E9328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A328B11E-0E75-4ED1-9535-303277E9328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00253EE0-2FA9-4FD8-908F-E6E9333CAB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00253EE0-2FA9-4FD8-908F-E6E9333CAB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00253EE0-2FA9-4FD8-908F-E6E9333CAB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00253EE0-2FA9-4FD8-908F-E6E9333CAB85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
