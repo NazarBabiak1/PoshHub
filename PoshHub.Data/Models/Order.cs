@@ -8,11 +8,12 @@ namespace PoshHub.Data.Models;
 
 public class Order
 {
-    public int OrderId { get; set; }
+    public int Id { get; set; }
     public int UserId { get; set; }
+    public User User { get; set; }
     public DateTime OrderDate { get; set; }
     public decimal TotalAmount { get; set; }
-    public string Status { get; set; } 
+    public string Status { get; set; }
     public string ShippingAddress { get; set; }
-    public Dictionary<Product, int> Products { get; set; } = new Dictionary<Product, int>();
+    public ICollection<OrderItem> OrderItems { get; set; }
 }

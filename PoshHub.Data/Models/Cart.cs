@@ -8,9 +8,9 @@ namespace PoshHub.Data.Models;
 
 public class Cart
 {
-    public int CartId { get; set; }
+    public int Id { get; set; }
     public int UserId { get; set; }
-    public Dictionary<Product, int> ProductQuantities { get; set; } = new Dictionary<Product, int>();
+    public User User { get; set; }
+    public ICollection<CartItem> CartItems { get; set; }
     public DateTime LastUpdated { get; set; }
 }
-

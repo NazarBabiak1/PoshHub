@@ -1,0 +1,15 @@
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.AssemblyInfo.cs
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.sourcelink.json
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\bin\Debug\net8.0\PoshHub.Data.deps.json
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\bin\Debug\net8.0\PoshHub.Data.runtimeconfig.json
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\bin\Debug\net8.0\PoshHub.Data.dll
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\bin\Debug\net8.0\PoshHub.Data.pdb
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.dll
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\refint\PoshHub.Data.dll
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.pdb
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\PoshHub.Data.genruntimeconfig.cache
+C:\Users\nazar\source\repos\PoshHub\PoshHub.Data\obj\Debug\net8.0\ref\PoshHub.Data.dll
