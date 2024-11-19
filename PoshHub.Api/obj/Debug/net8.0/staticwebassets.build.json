@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J1RPykjfFbEXZ8/dFYbbBnzjqmo4MyrQT/juPsuciQU=",
+  "Source": "PoshHub.Api",
+  "BasePath": "_content/PoshHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

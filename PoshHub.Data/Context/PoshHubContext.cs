@@ -16,10 +16,9 @@ public class PoshHubContext: DbContext
     public DbSet<Review> Reviews { get; set; }
     public DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    PoshHubContext(DbContextOptions<PoshHubContext> dbContextOptions): base (dbContextOptions)
     {
-        optionsBuilder.UseMySql("Server=127.0.0.1;Database=poshhubdb;User=root;Password=123456n;", new MySqlServerVersion(new Version(8, 0, 21)));
-        base.OnConfiguring(optionsBuilder);
+
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

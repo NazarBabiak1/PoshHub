@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoshHub.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1240e076347b24907d6c9e37b4d8abfa580a2991")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb973b2f1f1cbec3897f00c8e39d472cab55679")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoshHub.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoshHub.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
