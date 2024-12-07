@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sk+Qd0ok4hk=",
+  "dgSpecHash": "MTNu1UD8aUE=",
   "success": true,
   "projectFilePath": "C:\\Users\\nazar\\source\\repos\\PoshHub\\PoshHub.Api\\PoshHub.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.10\\microsoft.entityframeworkcore.analyzers.8.0.10.nupkg.sha512",

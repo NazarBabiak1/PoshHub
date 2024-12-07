@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoshHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb973b2f1f1cbec3897f00c8e39d472cab55679")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc983eefe7c4f8de98c74368b3ff7e3253d91c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoshHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoshHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
